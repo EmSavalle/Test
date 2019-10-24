@@ -1,0 +1,77 @@
+newmtl material_0
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+d 1
+Kd 1 0 0
+Ks 1 0 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_1
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+d 1
+Kd 0.4 0.201569 0
+Ks 0.4 0.201569 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_2
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+d 1
+Kd 0.352037 0 0.4
+Ks 0.352037 0 0.4
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_3
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+d 1
+Kd 0 0.347447 0.4
+Ks 0 0.347447 0.4
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_4
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+d 1
+Kd 0.4 0 7.33376e-005
+Ks 0.4 0 7.33376e-005
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_5
+Ka 0.4 0.4 0.4
+map_Ka fractal.jpg
+map_Ks fractal.jpg
+map_Kd fractal.jpg
+d 1
+Kd 1 1 1
+Ks 1 1 1
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_6
+Ka 0.4 0.4 0.4
+map_Ka wormy.jpg
+map_Ks wormy.jpg
+map_Kd wormy.jpg
+d 1
+Kd 0.00581074 0.4 0
+Ks 0.00581074 0.4 0
+Ns 25.0
+Ni 1.0
+illum 5

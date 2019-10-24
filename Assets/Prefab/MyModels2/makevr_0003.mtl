@@ -1,0 +1,44 @@
+newmtl material_0
+Ka 0.4 0.4 0.4
+map_Ka VenusGas.jpg
+map_Ks VenusGas.jpg
+map_Kd VenusGas.jpg
+d 1
+Kd 1 1 0
+Ks 1 1 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_1
+Ka 0.4 0.4 0.4
+map_Ka blue_diamond.jpg
+map_Ks blue_diamond.jpg
+map_Kd blue_diamond.jpg
+d 1
+Kd 1 1 0
+Ks 1 1 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_2
+Ka 0.4 0.4 0.4
+map_Ka jupiterSkunk2.jpg
+map_Ks jupiterSkunk2.jpg
+map_Kd jupiterSkunk2.jpg
+d 1
+Kd 1 1 0
+Ks 1 1 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_3
+Ka 0.4 0.4 0.4
+map_Ka wet_stone.jpg
+map_Ks wet_stone.jpg
+map_Kd wet_stone.jpg
+d 1
+Kd 1 1 0
+Ks 1 1 0
+Ns 25.0
+Ni 1.0
+illum 5

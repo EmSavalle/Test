@@ -1,0 +1,20 @@
+newmtl material_0
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+Kd 0.4 0.113016 0
+Ks 0.4 0.113016 0
+Ns 25.0
+Ni 1.0
+illum 5
+newmtl material_1
+Ka 0.4 0.4 0.4
+map_Ka dans_blinn.jpg
+map_Ks dans_blinn.jpg
+map_Kd dans_blinn.jpg
+Kd 0 0.347154 0.4
+Ks 0 0.347154 0.4
+Ns 25.0
+Ni 1.0
+illum 5
